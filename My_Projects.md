@@ -19,3 +19,10 @@
 * 2009 - 2013, [Ecole Pierre et Marie Curie](https://ecole.de/fr/)
 
 <img src="https://www.bilder-upload.eu/upload/9e703e-1570390518.jpg" width="300">
+
+#### Learn more about:
+
+![Vine Leaf Disease and AI](https://matheli.github.io/Vine-leaf-diseases-and-AI/)
+![Fall Detection App/AI](https://matheli.github.io/Fall_Detection_App_AI/)
+![EMBL Women in Science Project](https://malvikasharan.github.io/EMBL-Women-2019/)
+
