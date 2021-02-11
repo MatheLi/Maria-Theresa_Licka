@@ -1,1 +1,1 @@
-# Maria-Theresa_Licka
+# Maria-Theresa Licka
