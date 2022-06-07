@@ -16,11 +16,8 @@ In my free time, I play sports. I have been playing tennis since I was 7 years o
   <th><img src="https://news.embl.de/wp-content/uploads/2018/11/IMG_7591-768x576.jpg" width="300" hight=auto></th>
 </table>
 *Stanford expedition Silicon Valley, Image source: https://master-mint.de/usa-2018*
+
 *EMBL Researchers Night 2018, Image source: https://news.embl.de/events/ern2018/*
-
-### EMBL Teens Project
-
-
 
 #### Learn more about:
 
@@ -29,5 +26,7 @@ In my free time, I play sports. I have been playing tennis since I was 7 years o
 [Fall Detection App/AI](https://matheli.github.io/Fall_Detection_App_AI/)
 
 [EMBL Women in Science Project](https://malvikasharan.github.io/EMBL-Women-2019/)
+
+[EMBL Teens Project](./EMBLTeensProject.md)
 
 01.01.2021
