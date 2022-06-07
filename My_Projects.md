@@ -21,7 +21,9 @@
 
 #### Learn more about:
 
-![Vine Leaf Disease and AI](https://matheli.github.io/Vine-leaf-diseases-and-AI/)
-![Fall Detection App/AI](https://matheli.github.io/Fall_Detection_App_AI/)
-![EMBL Women in Science Project](https://malvikasharan.github.io/EMBL-Women-2019/)
+[Vine Leaf Disease and AI](https://matheli.github.io/Vine-leaf-diseases-and-AI/)
+
+[Fall Detection App/AI](https://matheli.github.io/Fall_Detection_App_AI/)
+
+[EMBL Women in Science Project](https://malvikasharan.github.io/EMBL-Women-2019/)
 
